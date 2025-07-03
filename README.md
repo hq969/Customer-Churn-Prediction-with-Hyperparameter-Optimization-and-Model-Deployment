@@ -8,7 +8,7 @@ This project provides a **production-ready, end-to-end machine learning pipeline
 
 ```
 
-churn\_ml\_pipeline/
+Customer-Churn-Prediction-with-Hyperparameter-Optimization-and-Model-Deployment/
 │
 ├── data/                          # Raw dataset
 │   └── churn\_data.csv
