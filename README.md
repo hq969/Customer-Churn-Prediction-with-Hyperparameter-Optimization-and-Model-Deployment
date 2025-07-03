@@ -11,24 +11,24 @@ This project provides a **production-ready, end-to-end machine learning pipeline
 Customer-Churn-Prediction-with-Hyperparameter-Optimization-and-Model-Deployment/
 │
 ├── data/                          # Raw dataset
-│   └── churn\_data.csv
+│   └── churn_data.csv
 │
 ├── src/                           # Core Python scripts
 │   ├── preprocessing.py           # Data loading and preprocessing
-│   ├── eda\_visualization.py       # Data visualization functions
-│   ├── model\_training.py          # Base ML training script
-│   ├── hyperparameter\_tuning.py   # GridSearchCV optimization
-│   ├── model\_evaluation.py        # Evaluation metrics and reports
+│   ├── eda_visualization.py       # Data visualization functions
+│   ├── model_training.py          # Base ML training script
+│   ├── hyperparameter_tuning.py   # GridSearchCV optimization
+│   ├── model_evaluation.py        # Evaluation metrics and reports
 │   └── utils.py                   # Optional helper functions
 │
 ├── app/
 │   └── app.py                     # Flask REST API for predictions
 │
 ├── notebooks/
-│   └── churn\_eda.ipynb            # Jupyter Notebook for EDA
+│   └── churn_eda.ipynb            # Jupyter Notebook for EDA
 │
 ├── models/
-│   └── churn\_model.pkl            # Trained model saved with joblib
+│   └── churn_model.pkl            # Trained model saved with joblib
 │
 ├── requirements.txt               # Python dependencies
 └── README.md                      # You're here
