@@ -175,14 +175,3 @@ Pull requests are welcome! Please open an issue first to discuss what you would 
 
 This project is licensed under the MIT License.
 
-```
-
----
-
-Would you like me to:
-- Generate a zipped version of the project with all these files?
-- Deploy this to Streamlit or HuggingFace Spaces?
-- Add deep learning (Keras/TensorFlow) into the pipeline?
-
-Let me know your next step!
-```
